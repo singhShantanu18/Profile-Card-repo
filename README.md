@@ -13,7 +13,3 @@ This project demonstrates a simple HTML/CSS profile card layout for a fictional 
 - Social media links with clickable icons
 - Subscribe and Message buttons
 
-## Installation
-
-Simply clone the repository and open the `index.html` file in your web browser.
-
