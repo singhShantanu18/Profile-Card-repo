@@ -1,4 +1,4 @@
-# Coding Labs Project
+# Profile Card Layout
 
 This project demonstrates a simple HTML/CSS profile card layout for a fictional YouTube and Blogger channel. It includes social media links and subscription options.
 
